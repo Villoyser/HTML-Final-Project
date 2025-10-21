@@ -1,0 +1,28 @@
+@import './reset.css';
+.Logo_Kingdom{
+    height: 40px;
+    width: 40px;
+    padding-right: 10px;
+}
+
+.Hero{
+    padding-top: 20px;
+}
+.Hero img {
+    height: 300px;
+    object-fit: cover;
+}
+.Sales{
+    margin-top: 30px;
+}
+
+
+footer {
+  text-align: center;
+  padding: 1.6rem;
+  border-top: 1px solid #eee;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color:white;
+  background-color: #ffc107;
+}
